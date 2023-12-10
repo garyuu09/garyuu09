@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ryuga 🐱
 
-- iOS App Engineer
+- iOS App Developer
 
 
 
