@@ -1,6 +1,5 @@
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyuu09&layout=compact" align="right"/>](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi, I'm Ryuga 🐱
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyuu09&layout=compact" align="right"/>](https://github.com/anuraghazra/github-readme-stats)
 
 - iOS App Developer
 
