@@ -1,6 +1,5 @@
 ### Hi, I'm Ryuga 🐱
 
-- IT Consultant
 - iOS App Developer
 
 
