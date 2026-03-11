@@ -1,6 +1,6 @@
 ### Hi, I'm Ryuga 🐱
 
-- iOS App Developer
+- Mobile App Engineer
 
 
 [![Ryuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyuu09&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
